@@ -1,0 +1,9 @@
+CREATE DATABASE library;
+
+CREATE TABLE admin (id int(10), name varchar(50), username varchar(50), password varchar(50));
+
+CREATE TABLE book (id int(10), name varchar(50), author varchar(50), price int(10), copies int(10));
+
+CREATE TABLE issue (bid int(10), mid int(10), aid int(10), issuedate date, returndate date);
+
+CREATE TABLE member (id int(10), name varchar(50), contact int(10), address varchar(50));
