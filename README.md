@@ -8,4 +8,6 @@ Everyone can see a list of all the books available in the library.
 At the time of issuing or returning book the website asks only for id's of member, book and issuing admin.
 Admin and Developer login both are password protected.
 
+All the tables used and their structure are given in the database.txt file.
+
 Trick:- Developer Login can be done by clicking on my name (Darsh Turakhia0 on the navbar only.
