@@ -10,4 +10,4 @@ Admin and Developer login both are password protected.
 
 All the tables used and their structure are given in the database.txt file.
 
-Trick:- Developer Login can be done by clicking on my name (Darsh Turakhia0 on the navbar only.
+Trick:- Developer Login can be done by clicking on my name (Darsh Turakhia) on the navbar only.
